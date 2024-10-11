@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+
+}
+h1 {
+    text-align: center;
+    text-size-adjust: 12;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+nav ul li {
+    margin: 0 20px;
+    text-align: right;
+}
+img {
+    width: 300px;
+    height: auto;
+    align-self: left;   
+}
+
+footer{
+    text-align:center;
+    padding: 150px 0;
+
+}
+
+tittle h2 {
+    text-align: center;
+
+}
+
+table {
+    background-color: darkgreen;
+    table-layout: auto;
+    color: white;
+}
+
+section article {
+    font-size: medium;
+    text-align: left;
+}
+
+ textarea {
+    width: 100%; 
+    height: 80px;
+    padding: 10px; 
+    font-size: 16px; 
+    border: 1px solid #ccc;
+    
+}
+
+input {
+    display:flex;
+    width: 170px;
+}
